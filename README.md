@@ -5,7 +5,7 @@
 <img align="right" alt="simpson" width="300" src="https://www.jacksonsd.org/cms/lib/NJ01912744/Centricity/Domain/735/funny-homer-computer-animated-gif-38.gif">
 
 
-<br>
+<br> <br>
 - 🔭 I’m currently working on *ALX SE PROGRAMME*
 
 - 🌱 I’m currently learning **C and Networking**
