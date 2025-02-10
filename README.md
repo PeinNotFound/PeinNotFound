@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at(I' m working on a portfolio) [https://github.com/PeinNotFound](https://github.com/PeinNotFound)
 
-- 💬 Ask me about **HTML-CSS, Python, MySQL**
+- 💬 Ask me about **HTML-CSS, Python, MySQL, Laravel, MongoDB, React**
 
 - 📫 How to reach me **ahmed0hmimida@gmail.com**
 
